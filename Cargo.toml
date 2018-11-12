@@ -1,0 +1,7 @@
+[package]
+name = "senic-core"
+version = "0.1.0"
+authors = ["Avichal <pandeyavichal7@gmail.com>"]
+
+[dependencies]
+dbus = "0.6.3"
